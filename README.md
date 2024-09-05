@@ -42,7 +42,7 @@ To stop the script:
 pkill -fx "zsh $HOME/.alacritty-theme-autoswitch.sh"
 ```
 
-Please note, that as long as `.zshrc` contains the launch command, autoswitcher will re-launch every time you open a new shell session.
+> Please note, that as long as `.zshrc` contains the launch command, autoswitcher will re-launch every time you open a new shell session.
 
 
 ## Uninstall
