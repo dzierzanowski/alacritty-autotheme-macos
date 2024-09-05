@@ -1,0 +1,7 @@
+# Example configuration for Alacritty.
+# Should contain everything, excluding the theme.
+
+live_config_reload = true
+
+[window]
+startup_mode = 'Maximized'
