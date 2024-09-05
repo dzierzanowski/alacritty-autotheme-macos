@@ -1,5 +1,5 @@
 # alacritty-theme-autoswitch-macos
-Automatically adjust [Alacritty](https://github.com/alacritty/alacritty) theme according to your current system theme. (dark/light)
+Automatically adjust [Alacritty](https://github.com/alacritty/alacritty) theme according to your current MacOS system theme. (dark/light)
 
 This is a shell script running indefinitely in the background, checking for system theme change every 0.5 seconds using AppleScript.
 If change is detected, it updates `~/.alacritty.toml` with the appropriate theme.
